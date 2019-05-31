@@ -2,11 +2,11 @@
 ---
 
 ## 创建库
-* 网页端创建一个空Repository
+* 网页端创建一个空的Public Repository
 * 在本地创建库（文件夹），把图片放进去
 * 将本地库PUSH到云端（点击download Repository获得库链接）
 
-注意：每次PUSH都需要commit（不能是空白）
+注意：每次PUSH都需要commit（不能是空白）；必须是公共库，因为私有库中图片的地址会通过改变token的值来实时改变
 
 ## 使用方法
 
