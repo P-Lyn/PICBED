@@ -14,6 +14,8 @@
 ![](https://raw.githubusercontent.com/P-Lyn/PICBED/master/chips_overview/FPGA_xcalibur5090.png)
 
 
+![](https://raw.githubusercontent.com/P-Lyn/PICBED/master/chips_overview/FPGA_xcalibur5090.png)
+
 * 在GitHub网页端中显示（无法在MD文件中显示） --> 直接复制库中图片的地址，如下：
 
 ![](https://github.com/P-Lyn/PICBED/blob/master/chips_overview/FPGA_xcalibur5090.png)
