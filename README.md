@@ -10,7 +10,7 @@
 
 ## 使用方法
 
-* 在MD文件中使用（无法在GitHub网页端的MD文件中显示） --> 点击库中的图片，**点击download获得图片链接**，在MD中插入图片，如下：
+* 在MD文件中使用（可在GitHub网页端的MD文件中显示） --> 点击库中的图片，**点击download获得图片链接**，在MD中插入图片，如下：
 ![](https://raw.githubusercontent.com/P-Lyn/PICBED/master/chips_overview/FPGA_xcalibur5090.png?token=AIRA6UHMC4PXA7UIANZFP5246DKTI)
 
 * 在GitHub网页端中显示（无法在MD文件中显示） --> 直接复制库中图片的地址，如下：
