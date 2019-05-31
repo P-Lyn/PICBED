@@ -11,9 +11,11 @@
 ## 使用方法
 
 * 在MD文件中使用
+
 点击库中的图片，**点击download获得图片链接**，在MD中插入图片，如下：
 ![](https://raw.githubusercontent.com/P-Lyn/PicBed/master/chips_overview/FPGA_xcalibur5090.png?token=AIRA6UDX33IPCRDIOGW56YS46CLRQ)
 
 * 在GitHub网页端中显示
+
 直接复制库中图片的地址，如下：
 ![](https://github.com/P-Lyn/PicBed/blob/master/test/7.6%E5%9B%BE%E7%A4%BA1.png)
